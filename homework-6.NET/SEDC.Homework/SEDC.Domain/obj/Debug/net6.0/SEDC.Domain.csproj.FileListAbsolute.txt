@@ -1,0 +1,12 @@
+C:\Users\simen\OneDrive\Desktop\vez\SEDC.Homework\SEDC.Domain\bin\Debug\net6.0\SEDC.Domain.deps.json
+C:\Users\simen\OneDrive\Desktop\vez\SEDC.Homework\SEDC.Domain\bin\Debug\net6.0\SEDC.Domain.dll
+C:\Users\simen\OneDrive\Desktop\vez\SEDC.Homework\SEDC.Domain\bin\Debug\net6.0\SEDC.Domain.pdb
+C:\Users\simen\OneDrive\Desktop\vez\SEDC.Homework\SEDC.Domain\obj\Debug\net6.0\SEDC.Domain.csproj.AssemblyReference.cache
+C:\Users\simen\OneDrive\Desktop\vez\SEDC.Homework\SEDC.Domain\obj\Debug\net6.0\SEDC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simen\OneDrive\Desktop\vez\SEDC.Homework\SEDC.Domain\obj\Debug\net6.0\SEDC.Domain.AssemblyInfoInputs.cache
+C:\Users\simen\OneDrive\Desktop\vez\SEDC.Homework\SEDC.Domain\obj\Debug\net6.0\SEDC.Domain.AssemblyInfo.cs
+C:\Users\simen\OneDrive\Desktop\vez\SEDC.Homework\SEDC.Domain\obj\Debug\net6.0\SEDC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\simen\OneDrive\Desktop\vez\SEDC.Homework\SEDC.Domain\obj\Debug\net6.0\SEDC.Domain.dll
+C:\Users\simen\OneDrive\Desktop\vez\SEDC.Homework\SEDC.Domain\obj\Debug\net6.0\refint\SEDC.Domain.dll
+C:\Users\simen\OneDrive\Desktop\vez\SEDC.Homework\SEDC.Domain\obj\Debug\net6.0\SEDC.Domain.pdb
+C:\Users\simen\OneDrive\Desktop\vez\SEDC.Homework\SEDC.Domain\obj\Debug\net6.0\ref\SEDC.Domain.dll
